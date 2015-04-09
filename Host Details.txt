@@ -1,0 +1,32 @@
+****Domain****
+Domain: nikunjr.hostoi.com
+Password: Password1
+IP Address: 31.170.160.98
+Username: a5458294
+
+****FTP****
+FTP Hostname: ftp.nikunjr.hostoi.com or 31.170.160.98
+FTP Username: a5458294
+FTP Passsword: Password1
+
+***Db***
+$mysql_host = "mysql10.000webhost.com";
+$mysql_database = "a5458294_project";
+$mysql_user = "a5458294_root";
+$mysql_password = "Password1";
+
+
+***********************
+**********************
+Database Host: fdb12.awardspace.net
+Database Port: 3306
+Database Name: 1852624_promad
+Database User: 1852624_promad
+Database Password: Password@1
+Database Version
+5.5
+*********
+FTP
+Hostnames: f12-preview.awardspace.net
+FTP Username: 1852624
+FTP Password: Password@1

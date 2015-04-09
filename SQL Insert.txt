@@ -1,0 +1,2 @@
+INSERT INTO employees (fullname, empid, email, password1, radioText)
+VALUES ('Tom Johnson','101','tom.j@gmail.com','tomabc','Y');

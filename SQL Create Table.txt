@@ -1,0 +1,12 @@
+CREATE TABLE employees
+(
+fullname varchar(255),
+empid varchar(255),
+email varchar(255) NOT NULL,
+password1 varchar(255),
+radioText varchar(1),
+projectName varchar(255),
+projectManager varchar(255),
+exp int,
+PRIMARY KEY (email)
+)
